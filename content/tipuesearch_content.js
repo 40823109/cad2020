@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '4083109', 'text': '倉儲 :\xa0 https://github.com/40823109/cad2020 \n 網站 :\xa0https://40823109.github.io/cad2020', 'tags': '', 'url': '4083109.html'}]};
+var tipuesearch = {"pages": [{'title': '4083109', 'text': 'cad2020 倉儲 \xa0 \n cad2020 網站 \xa0 \n', 'tags': '', 'url': '4083109.html'}, {'title': 'W1', 'text': '', 'tags': '', 'url': 'W1.html'}, {'title': 'homework', 'text': '使用\xa0 Soildworks 及 Inventer 畫出零件檔和標示體積\xa0 \n \n \n \n \n \n \n \n \n', 'tags': '', 'url': 'homework.html'}]};
